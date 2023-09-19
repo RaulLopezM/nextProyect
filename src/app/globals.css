@@ -5,5 +5,13 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 	background-color: #999;
-	
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	/*position absolute para colocarlo delante de la imagen*/
+	top: 0;
+	/*posicionamos el div a la altura del contenedor*/
+	border-radius: 10px;
+	backdrop-filter: blur(3px);
+
 }

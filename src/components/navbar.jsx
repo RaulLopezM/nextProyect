@@ -13,10 +13,10 @@ export default function Navbar() {
 					<div className="collapse navbar-collapse" id="navbarNav">
 						<ul className="navbar-nav ">
 							<li className="nav-item">
-								<Link className="nav-link active" aria-current="page" href="/" replace>Inicio</Link>
+								<Link className="nav-link active" aria-current="page" href="/" replace>Portafolio</Link>
 							</li>
 							<li className="nav-item">
-								<Link className="nav-link" href="/about">Contactos</Link>
+								<Link className="nav-link" href="/about">Contacto</Link>
 							</li>
 							<li className="nav-item">
 								<Link className="nav-link" href="/servicios">Servicios</Link>
