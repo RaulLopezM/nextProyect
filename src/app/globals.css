@@ -5,7 +5,7 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 	background-color: #999;
-	height: 100%;
+	height: auto;
 	width: 100%;
 	position: absolute;
 	/*position absolute para colocarlo delante de la imagen*/
